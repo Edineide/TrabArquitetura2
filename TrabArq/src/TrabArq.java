@@ -10,7 +10,7 @@ public class TrabArq {
         
         double imc=var.nextDouble();
         
-        System.out.print("Digite o peso:");
+        System.out.print("Digite o seu peso:");
         double peso=var.nextDouble();
         System.out.print("Digite a altura:");
         double altura=var.nextDouble();
